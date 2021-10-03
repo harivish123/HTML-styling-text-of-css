@@ -1,0 +1,17 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    color:red;
+}
+article{
+    background-color: blanchedalmond;
+    font-size: medium;
+    font-style: italic;
+    color: black;
+}
+span{
+    font-size: large;
+    font-style: oblique;
+    color: slateblue;
+}
